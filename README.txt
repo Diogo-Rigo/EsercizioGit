@@ -1,1 +1,1 @@
-"Questo Š il progetto EsercizioGit" 
+"Questo Š il progetto Esercizio Git" 
